@@ -1,0 +1,16 @@
+{
+  "name": "hon-responsive-email-template",
+  "description": "A responsive with a minimalist style in mind email template",
+  "author": "William Belle <william.belle@gmail.com>",
+  "keywords": [
+    "email",
+    "template"
+  ],
+  "version": "0.0.1",
+  "private": true,
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "nodemailer": "^2.4.1",
+    "nodemailer-mailgun-transport": "^1.0.2"
+  }
+}
