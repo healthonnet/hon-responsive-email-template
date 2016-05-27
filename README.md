@@ -4,6 +4,8 @@ HON-Responsive-Email-Template
 HON Responsive Email Template is a responsive with a minimalist style in
 mind email template.
 
+![Screenshot](screenshot/screenshot.jpg)
+
 Demo
 ----
 
