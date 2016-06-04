@@ -4,6 +4,10 @@ Change Log
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+v0.0.4 - 2016-06-04
+-------------------
+ - Remove class "center"
+
 v0.0.3 - 2016-06-03
 -------------------
  - Enlarge the logo size
